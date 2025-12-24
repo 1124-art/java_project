@@ -11,6 +11,7 @@ class LoopingStatements{
 	}
 		public static void oddNumbers() {
 			//while loop
+			//printing odd numbers
 			int j=1;
 			while(j<10) {
 				j+=2;
@@ -18,7 +19,7 @@ class LoopingStatements{
 			}
 		}
 		public static void Numbers() {
-		
+		//printing numbers 1 to 5
 		        int i = 1;
 
 		        do {
