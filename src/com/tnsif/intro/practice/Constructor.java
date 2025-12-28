@@ -3,7 +3,7 @@ package com.tnsif.intro.practice;
 public class Constructor {
 	int age;
 	String name;
- //default cons  //both are overloading
+ //default cons 
 Constructor (){
 	  age=33;
 	   name="chinu";
